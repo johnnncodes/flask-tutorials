@@ -14,6 +14,10 @@ Flask Tutorial (official): http://flask.pocoo.org/docs/0.10/tutorial/#tutorial
 
 Build a Flask App in 30 Minutes: https://stormpath.com/blog/build-a-flask-app-in-30-minutes/
 
+Full Stack Web Development with Flask: http://discoverflask.com
+
+Flaskr: Intro to Flask, Test Driven Development (TDD), and jQuery: https://github.com/mjhea0/flaskr-tdd
+
 #### Advanced Tutorials
 
 Warm Phone Call Transfers with Python, Flask and Twilio Voice: https://www.twilio.com/blog/2015/09/warm-phone-call-transfers-with-python-flask-and-twilio-voice.html
@@ -23,4 +27,6 @@ How I Structure My Flask Applications - http://mattupstate.com/python/2013/06/26
 #### Books
 
 Explore Flask (FREE) - https://exploreflask.com/en/latest/
+
+Real Python: https://realpython.com
 
